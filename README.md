@@ -1,9 +1,8 @@
-## Sejam Bem-vindos(as) ao perfil do Dev em Dobro 😁
-
+## Sejam Bem-vindos!, Eu sou Lincoln😁
  <div>
    <a href="https://github.com/LincolnBrian">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LincolnBrian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnBrian&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnbrian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbrian&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -22,6 +21,6 @@
   <a href = "mailto:brianlincolnbento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lincoln-brian-971408271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LincolnBrian/LincolnBrian/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lincolnbrian/lincolnbrian/blob/output/github-contribution-grid-snake.svg)
 
 </div>
